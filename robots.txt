@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://olaraoxi.github.io/OZP/sitemap_index.txt
+Sitemap: https://olaraoxi.github.io/URi/sitemap_index.txt
+Sitemap: https://olaraoxi.github.io/bCh/sitemap_index.txt
+Sitemap: https://olaraoxi.github.io/ybZ/sitemap_index.txt
